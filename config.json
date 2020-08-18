@@ -1,0 +1,5 @@
+{
+    "horse_time_limit": 35,
+    "horse_num_limit": 2,
+    "horse_times": [5, 12, 10, 7, 15]
+}
