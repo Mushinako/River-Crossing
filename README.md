@@ -21,7 +21,7 @@ Put parameters in `config.json` and run `river_crossing.py`. The output will be 
     "num_of_solutions": [int] "Total number of solutions found",
     "solutions": [{
         "total_time": [int] "Total amount of time taken for this solution",
-        "horses_time_spent": [List[int]] "List of time each horse spent crossing the river",
+        "horses_time": [List[int]] "List of time each horse spent crossing the river",
         "path": [List[List[str]]] "List of steps, showing the horses moved each step"
     }, ...]
 }
